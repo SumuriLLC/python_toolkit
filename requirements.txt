@@ -1,0 +1,10 @@
+# Runtime dependencies
+# This package uses only Python standard library modules
+# No external dependencies required
+
+# Python version requirement
+# python>=3.6
+
+# Development dependencies
+pytest>=7.0.0
+pytest-cov>=4.0.0  # For test coverage reports 
